@@ -1,0 +1,198 @@
+exp_title;exp_author;exp_version;alfred_version;element_type;name;label_top;label_left;label_right;label_bottom;force_input;default;placeholder;prefix;suffix;description;tree;page_title;unlinked;n_choices;choice1;choice2;choice3;choice4;choice5;choice6;choice7;ndecimals;decimal_signs;min;max;regex_pattern
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SubmittingButtons;consent;;;;;False;;;;;;_content.ExpSection.InformedConsentPage;Einverständniserklärung;False;2;Ablehnen;Akzeptieren;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;initialSTAI_S_01;;Ich bin ruhig.;;;True;;;;;;_content.ExpSection.InstructionSection.initial;Bevor es los geht;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;initialSTAI_S_02;;Ich fühle mich geborgen.;;;True;;;;;;_content.ExpSection.InstructionSection.initial;Bevor es los geht;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;initialSTAI_S_03;;Ich fühle mich angespannt.;;;True;;;;;;_content.ExpSection.InstructionSection.initial;Bevor es los geht;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;initialSTAI_S_04;;Ich bin bekümmert.;;;True;;;;;;_content.ExpSection.InstructionSection.initial;Bevor es los geht;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;initialSTAI_S_05;;Ich fühle mich ungezwungen.;;;True;;;;;;_content.ExpSection.InstructionSection.initial;Bevor es los geht;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;initialSTAI_S_06;;Ich bin aufgeregt.;;;True;;;;;;_content.ExpSection.InstructionSection.initial;Bevor es los geht;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;initialSTAI_S_07;;Ich bin besorgt, dass etwas schiefgehen könnte.;;;True;;;;;;_content.ExpSection.InstructionSection.initial;Bevor es los geht;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;initialSTAI_S_08;;Ich fühle mich ausgeruht.;;;True;;;;;;_content.ExpSection.InstructionSection.initial;Bevor es los geht;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;initialSTAI_S_09;;Ich bin beunruhigt.;;;True;;;;;;_content.ExpSection.InstructionSection.initial;Bevor es los geht;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;initialSTAI_S_10;;Ich fühle mich wohl.;;;True;;;;;;_content.ExpSection.InstructionSection.initial;Bevor es los geht;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;initialSTAI_S_11;;Ich fühle mich selbstsicher.;;;True;;;;;;_content.ExpSection.InstructionSection.initial;Bevor es los geht;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;initialSTAI_S_12;;Ich bin nervös.;;;True;;;;;;_content.ExpSection.InstructionSection.initial;Bevor es los geht;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;initialSTAI_S_13;;Ich bin zappelig.;;;True;;;;;;_content.ExpSection.InstructionSection.initial;Bevor es los geht;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;initialSTAI_S_14;;Ich bin verkrampft.;;;True;;;;;;_content.ExpSection.InstructionSection.initial;Bevor es los geht;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;initialSTAI_S_15;;Ich bin entspannt.;;;True;;;;;;_content.ExpSection.InstructionSection.initial;Bevor es los geht;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;initialSTAI_S_16;;Ich bin zufrieden.;;;True;;;;;;_content.ExpSection.InstructionSection.initial;Bevor es los geht;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;initialSTAI_S_17;;Ich bin besorgt.;;;True;;;;;;_content.ExpSection.InstructionSection.initial;Bevor es los geht;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;initialSTAI_S_18;;Ich bin überreizt.;;;True;;;;;;_content.ExpSection.InstructionSection.initial;Bevor es los geht;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;initialSTAI_S_19;;Ich bin froh.;;;True;;;;;;_content.ExpSection.InstructionSection.initial;Bevor es los geht;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;initialSTAI_S_20;;Ich bin vergnügt.;;;True;;;;;;_content.ExpSection.InstructionSection.initial;Bevor es los geht;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;acc_pre;;Währenden der Aufgabe werde ich mich eher konzentrieren auf...;;;True;;;;;;_content.ExpSection.InstructionSection.mani_check_pre;Noch ein paar kurze Fragen;False;7;mein Vorgehen <br> 1;2;3;4;5;6;mein Ergebnis <br> 7;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;justify;; Für wie wahrscheinlich halten Sie es, dass Sie im Anschluss an die Aufgabe Ihre Entscheidung rechtfertigen müssen?;;;True;;;;;;_content.ExpSection.InstructionSection.mani_check_pre;Noch ein paar kurze Fragen;False;7;überhaupt nicht <br> 1;2;3;4;5;6; sehr <br> 7;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;task_trial_1;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_1;Aufgabe 1;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;description_trial_1;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_1;Aufgabe 1;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;screener_trial1;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_1;Aufgabe 1;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;NumberEntry;estimation_1;<br>Bitte geben Sie Ihre Schätzung des Preises pro Person in Euro an:;;;;True;;;;€;;_content.ExpSection.TaskSection.task_page_1;Aufgabe 1;False;;;;;;;;;2;, .;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;true_value_1;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_1;Aufgabe 1;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;task_trial_2;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_2;Aufgabe 2;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;description_trial_2;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_2;Aufgabe 2;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;screener_trial2;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_2;Aufgabe 2;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;NumberEntry;estimation_2;<br>Bitte geben Sie Ihre Schätzung des Preises pro Person in Euro an:;;;;True;;;;€;;_content.ExpSection.TaskSection.task_page_2;Aufgabe 2;False;;;;;;;;;2;, .;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;true_value_2;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_2;Aufgabe 2;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;task_trial_3;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_3;Aufgabe 3;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;description_trial_3;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_3;Aufgabe 3;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;screener_trial3;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_3;Aufgabe 3;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;NumberEntry;estimation_3;<br>Bitte geben Sie Ihre Schätzung des Preises pro Person in Euro an:;;;;True;;;;€;;_content.ExpSection.TaskSection.task_page_3;Aufgabe 3;False;;;;;;;;;2;, .;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;true_value_3;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_3;Aufgabe 3;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;task_trial_4;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_4;Aufgabe 4;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;description_trial_4;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_4;Aufgabe 4;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;screener_trial4;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_4;Aufgabe 4;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;NumberEntry;estimation_4;<br>Bitte geben Sie Ihre Schätzung des Preises pro Person in Euro an:;;;;True;;;;€;;_content.ExpSection.TaskSection.task_page_4;Aufgabe 4;False;;;;;;;;;2;, .;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;true_value_4;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_4;Aufgabe 4;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;task_trial_5;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_5;Aufgabe 5;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;description_trial_5;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_5;Aufgabe 5;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;screener_trial5;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_5;Aufgabe 5;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;NumberEntry;estimation_5;<br>Bitte geben Sie Ihre Schätzung des Preises pro Person in Euro an:;;;;True;;;;€;;_content.ExpSection.TaskSection.task_page_5;Aufgabe 5;False;;;;;;;;;2;, .;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;true_value_5;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_5;Aufgabe 5;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;task_trial_6;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_6;Aufgabe 6;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;description_trial_6;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_6;Aufgabe 6;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;screener_trial6;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_6;Aufgabe 6;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;NumberEntry;estimation_6;<br>Bitte geben Sie Ihre Schätzung des Preises pro Person in Euro an:;;;;True;;;;€;;_content.ExpSection.TaskSection.task_page_6;Aufgabe 6;False;;;;;;;;;2;, .;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;true_value_6;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_6;Aufgabe 6;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;task_trial_7;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_7;Aufgabe 7;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;description_trial_7;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_7;Aufgabe 7;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;screener_trial7;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_7;Aufgabe 7;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;NumberEntry;estimation_7;<br>Bitte geben Sie Ihre Schätzung des Preises pro Person in Euro an:;;;;True;;;;€;;_content.ExpSection.TaskSection.task_page_7;Aufgabe 7;False;;;;;;;;;2;, .;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;true_value_7;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_7;Aufgabe 7;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;task_trial_8;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_8;Aufgabe 8;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;description_trial_8;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_8;Aufgabe 8;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;screener_trial8;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_8;Aufgabe 8;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;NumberEntry;estimation_8;<br>Bitte geben Sie Ihre Schätzung des Preises pro Person in Euro an:;;;;True;;;;€;;_content.ExpSection.TaskSection.task_page_8;Aufgabe 8;False;;;;;;;;;2;, .;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;true_value_8;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_8;Aufgabe 8;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;task_trial_9;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_9;Aufgabe 9;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;description_trial_9;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_9;Aufgabe 9;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;screener_trial9;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_9;Aufgabe 9;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;NumberEntry;estimation_9;<br>Bitte geben Sie Ihre Schätzung des Preises pro Person in Euro an:;;;;True;;;;€;;_content.ExpSection.TaskSection.task_page_9;Aufgabe 9;False;;;;;;;;;2;, .;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;true_value_9;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_9;Aufgabe 9;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;task_trial_10;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_10;Aufgabe 10;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;description_trial_10;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_10;Aufgabe 10;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;screener_trial10;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_10;Aufgabe 10;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;NumberEntry;estimation_10;<br>Bitte geben Sie Ihre Schätzung des Preises pro Person in Euro an:;;;;True;;;;€;;_content.ExpSection.TaskSection.task_page_10;Aufgabe 10;False;;;;;;;;;2;, .;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;true_value_10;;;;;False;;;;;;_content.ExpSection.TaskSection.task_page_10;Aufgabe 10;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;epistemic_motivation1;;"
+Ich habe mich darum bemüht, alles sorgfältig zu durchdenken.
+";;;True;;;;;;_content.ExpSection.FQSection.epistemic_motivation;Abschlussfragen 1;False;5;trifft überhaupt nicht zu <br>1;2;3;4;trifft absolut zu <br> 5;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;epistemic_motivation2;;"
+Ich bin diese Aufgabe systematisch angegangen.
+";;;True;;;;;;_content.ExpSection.FQSection.epistemic_motivation;Abschlussfragen 1;False;5;trifft überhaupt nicht zu <br>1;2;3;4;trifft absolut zu <br> 5;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;epistemic_motivation3;;"
+Ich habe versucht, den logischen Zusammenhang zwischen den Eigenschaften und dem Preis der Reisen herauszufinden.
+";;;True;;;;;;_content.ExpSection.FQSection.epistemic_motivation;Abschlussfragen 1;False;5;trifft überhaupt nicht zu <br>1;2;3;4;trifft absolut zu <br> 5;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;epistemic_motivation4;;"
+Ich bin die Aufgabe analytisch angegangen.
+";;;True;;;;;;_content.ExpSection.FQSection.epistemic_motivation;Abschlussfragen 1;False;5;trifft überhaupt nicht zu <br>1;2;3;4;trifft absolut zu <br> 5;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;epistemic_motivation5;;"
+Ich habe mich sehr auf die einzelnen Schritte konzentriert, die zur Bewältigung dieser Aufgabe nötig waren.
+";;;True;;;;;;_content.ExpSection.FQSection.epistemic_motivation;Abschlussfragen 1;False;5;trifft überhaupt nicht zu <br>1;2;3;4;trifft absolut zu <br> 5;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;epistemic_motivation6;;"
+Ich habe versucht Regeln herauszufinden, auf die ich meine Schätzung gründen kann.
+";;;True;;;;;;_content.ExpSection.FQSection.epistemic_motivation;Abschlussfragen 1;False;5;trifft überhaupt nicht zu <br>1;2;3;4;trifft absolut zu <br> 5;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;epistemic_motivation7;;"
+Ich war sehr darauf konzentiert was ich gemacht habe, um eine Antwort auf die Schätzungaufgabe zu finden.
+";;;True;;;;;;_content.ExpSection.FQSection.epistemic_motivation;Abschlussfragen 1;False;5;trifft überhaupt nicht zu <br>1;2;3;4;trifft absolut zu <br> 5;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;epistemic_motivation8;;"
+Ich war mir meines Denkprozesses sehr bewusst.
+";;;True;;;;;;_content.ExpSection.FQSection.epistemic_motivation;Abschlussfragen 1;False;5;trifft überhaupt nicht zu <br>1;2;3;4;trifft absolut zu <br> 5;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;epistemic_motivation9;;"
+Ich habe Einschätzungen gemacht, indem ich sorgfältig alle Informationen analysiert habe, die mir zur verfügung standen.
+";;;True;;;;;;_content.ExpSection.FQSection.epistemic_motivation;Abschlussfragen 1;False;5;trifft überhaupt nicht zu <br>1;2;3;4;trifft absolut zu <br> 5;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;epistemic_motivation10;;"
+Ich habe klare Regeln verwendet.
+";;;True;;;;;;_content.ExpSection.FQSection.epistemic_motivation;Abschlussfragen 1;False;5;trifft überhaupt nicht zu <br>1;2;3;4;trifft absolut zu <br> 5;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;MC_PA_1;;"
+Während ich meine Schätzungen gemacht habe, habe ich mich hauptsächlich auf den Prozess meiner Entscheidungsfindung konzentriert.
+";;;True;;;;;;_content.ExpSection.FQSection.MC_accountability;Abschlussfragen 2;False;7;stimme überhaupt nicht zu <br> 1;2;3;4;5;6;stimme vollkommen zu <br> 7;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;MC_OA_1;;"
+Während ich meine Schätzungen gemacht habe, habe ich mich hauptsächlich auf das Ergebnis meiner Entscheidungen konzentriert.
+";;;True;;;;;;_content.ExpSection.FQSection.MC_accountability;Abschlussfragen 2;False;7;stimme überhaupt nicht zu <br> 1;2;3;4;5;6;stimme vollkommen zu <br> 7;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;MC_PA_2;;"
+Ich werde meinen Entscheidungsprozess vor der Versuchsleitung rechtfertigen müssen.
+";;;True;;;;;;_content.ExpSection.FQSection.MC_accountability;Abschlussfragen 2;False;7;stimme überhaupt nicht zu <br> 1;2;3;4;5;6;stimme vollkommen zu <br> 7;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;MC_OA_2;;"
+Ich werde die Ergebnisse meiner Schätzungen vor der Versuchsleitung rechtfertigen müssen.
+";;;True;;;;;;_content.ExpSection.FQSection.MC_accountability;Abschlussfragen 2;False;7;stimme überhaupt nicht zu <br> 1;2;3;4;5;6;stimme vollkommen zu <br> 7;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;MC_PA_3;;"
+Ich war bemüht eine gute Strategie für meine Schätzungen zu finden und nicht möglichst gute Schätzungen abzugeben.
+";;;True;;;;;;_content.ExpSection.FQSection.MC_accountability;Abschlussfragen 2;False;7;stimme überhaupt nicht zu <br> 1;2;3;4;5;6;stimme vollkommen zu <br> 7;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;MC_OA_3;;"
+Ich war bemüht möglichst gute Schätzungen abzugeben und nicht eine möglichst gute Strategie für die Schätzungen zu verfolgen.
+";;;True;;;;;;_content.ExpSection.FQSection.MC_accountability;Abschlussfragen 2;False;7;stimme überhaupt nicht zu <br> 1;2;3;4;5;6;stimme vollkommen zu <br> 7;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;MC_PA_4;;"
+Ich war hauptsächlich auf eine möglichst gute Strategie für meine Schätzungen bedacht.
+";;;True;;;;;;_content.ExpSection.FQSection.MC_accountability;Abschlussfragen 2;False;7;stimme überhaupt nicht zu <br> 1;2;3;4;5;6;stimme vollkommen zu <br> 7;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;MC_OA_4;;"
+Ich war hauptsächlich auf das Abgeben möglichst guter Schätzungen bedacht.
+";;;True;;;;;;_content.ExpSection.FQSection.MC_accountability;Abschlussfragen 2;False;7;stimme überhaupt nicht zu <br> 1;2;3;4;5;6;stimme vollkommen zu <br> 7;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;systematic_information_processing1;;"
+Ich habe versucht alle möglichen Perspektiven bei der Einschätzung der Reisekosten einzunehmen.
+";;;True;;;;;;_content.ExpSection.FQSection.systematic_information_processing;Abschlussfragen 3;False;5;gar nicht <br> 1;2;3;4;sehr häufig <br> 5;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;systematic_information_processing2;;"
+Ich habe versucht meine Einschätzungen so gründlich wie möglich zu machen.
+";;;True;;;;;;_content.ExpSection.FQSection.systematic_information_processing;Abschlussfragen 3;False;5;stimme absolut nicht zu <br> 1;2;3;4;stimme absolut zu <br> 5;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;systematic_information_processing3;;"
+Ich habe mir ausführliche Gedanken gemacht bevor ich eine Schätzung abgegeben habe.
+";;;True;;;;;;_content.ExpSection.FQSection.systematic_information_processing;Abschlussfragen 3;False;5;nie <br> 1;2;3;4;immer <br> 5;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;finalSTAI_S_01;;Ich bin ruhig.;;;True;;;;;;_content.ExpSection.FQSection.final_stress;Abschlussfragen 4;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;finalSTAI_S_02;;Ich fühle mich geborgen.;;;True;;;;;;_content.ExpSection.FQSection.final_stress;Abschlussfragen 4;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;finalSTAI_S_03;;Ich fühle mich angespannt.;;;True;;;;;;_content.ExpSection.FQSection.final_stress;Abschlussfragen 4;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;finalSTAI_S_04;;Ich bin bekümmert.;;;True;;;;;;_content.ExpSection.FQSection.final_stress;Abschlussfragen 4;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;finalSTAI_S_05;;Ich fühle mich ungezwungen.;;;True;;;;;;_content.ExpSection.FQSection.final_stress;Abschlussfragen 4;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;finalSTAI_S_06;;Ich bin aufgeregt.;;;True;;;;;;_content.ExpSection.FQSection.final_stress;Abschlussfragen 4;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;finalSTAI_S_07;;Ich bin besorgt, dass etwas schiefgehen könnte.;;;True;;;;;;_content.ExpSection.FQSection.final_stress;Abschlussfragen 4;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;finalSTAI_S_08;;Ich fühle mich ausgeruht.;;;True;;;;;;_content.ExpSection.FQSection.final_stress;Abschlussfragen 4;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;finalSTAI_S_09;;Ich bin beunruhigt.;;;True;;;;;;_content.ExpSection.FQSection.final_stress;Abschlussfragen 4;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;finalSTAI_S_10;;Ich fühle mich wohl.;;;True;;;;;;_content.ExpSection.FQSection.final_stress;Abschlussfragen 4;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;finalSTAI_S_11;;Ich fühle mich selbstsicher.;;;True;;;;;;_content.ExpSection.FQSection.final_stress;Abschlussfragen 4;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;finalSTAI_S_12;;Ich bin nervös.;;;True;;;;;;_content.ExpSection.FQSection.final_stress;Abschlussfragen 4;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;finalSTAI_S_13;;Ich bin zappelig.;;;True;;;;;;_content.ExpSection.FQSection.final_stress;Abschlussfragen 4;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;finalSTAI_S_14;;Ich bin verkrampft.;;;True;;;;;;_content.ExpSection.FQSection.final_stress;Abschlussfragen 4;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;finalSTAI_S_15;;Ich bin entspannt.;;;True;;;;;;_content.ExpSection.FQSection.final_stress;Abschlussfragen 4;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;finalSTAI_S_16;;Ich bin zufrieden.;;;True;;;;;;_content.ExpSection.FQSection.final_stress;Abschlussfragen 4;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;finalSTAI_S_17;;Ich bin besorgt.;;;True;;;;;;_content.ExpSection.FQSection.final_stress;Abschlussfragen 4;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;finalSTAI_S_18;;Ich bin überreizt.;;;True;;;;;;_content.ExpSection.FQSection.final_stress;Abschlussfragen 4;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;finalSTAI_S_19;;Ich bin froh.;;;True;;;;;;_content.ExpSection.FQSection.final_stress;Abschlussfragen 4;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;finalSTAI_S_20;;Ich bin vergnügt.;;;True;;;;;;_content.ExpSection.FQSection.final_stress;Abschlussfragen 4;False;4;überhaupt nicht <br> 1;ein wenig <br> 2;ziemlich <br> 3;sehr <br> 4;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceBar;acc_post;; Wofür haben Sie sich während der Aufgabenbearbeitung verantwortlich gefühlt?;;;True;;;;;;_content.ExpSection.FQSection.mani_check_post;Abschlussfragen 5;False;7;mein Vorgehen <br> 1;2;3;4;5;6;mein Ergebnis <br> 7;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;TextArea;suspicion;"
+Was glauben Sie, war das Ziel dieser Studie?
+";;;;True;;;;;;_content.ExpSection.FQSection.suspicion_check;Abschlussfragen 6;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;TextArea;comments;"
+Haben Sie noch weitere Anmerkungen?
+";;;;False;;;;;;_content.ExpSection.FQSection.suspicion_check;Abschlussfragen 6;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoiceList;gender;;Bitte wählen Sie das Geschlecht aus, zu dem Sie sich zugehörig fühlen.;;;True;1;;;;;_content.ExpSection.FQSection.demographics;Demographische Angaben;False;4;noch nicht ausgewählt;weiblich;männlich;divers;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;NumberEntry;age;;Bitte geben Sie Ihr Alter an.;;;True;;;;Jahre;;_content.ExpSection.FQSection.demographics;Demographische Angaben;False;;;;;;;;;0;, .;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;TextEntry;course_of_studies;;Bitte tragen Sie Ihren Studiengang ein.;;;True;;;;;;_content.ExpSection.FQSection.demographics;Demographische Angaben;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;ape_0;;;;;False;;;;;;_content.ExpSection.FeedbackSection.feedback;Feedback;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;ape_1;;;;;False;;;;;;_content.ExpSection.FeedbackSection.feedback;Feedback;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;ape_2;;;;;False;;;;;;_content.ExpSection.FeedbackSection.feedback;Feedback;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;ape_3;;;;;False;;;;;;_content.ExpSection.FeedbackSection.feedback;Feedback;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;ape_4;;;;;False;;;;;;_content.ExpSection.FeedbackSection.feedback;Feedback;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;ape_5;;;;;False;;;;;;_content.ExpSection.FeedbackSection.feedback;Feedback;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;ape_6;;;;;False;;;;;;_content.ExpSection.FeedbackSection.feedback;Feedback;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;ape_7;;;;;False;;;;;;_content.ExpSection.FeedbackSection.feedback;Feedback;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;ape_8;;;;;False;;;;;;_content.ExpSection.FeedbackSection.feedback;Feedback;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;Value;mean_ape;;;;;False;;;;;;_content.ExpSection.FeedbackSection.feedback;Feedback;False;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;TextEntry;exp_reg_first_name;Bitte geben Sie Ihren Vornamen ein;;;;True;;;;;Participant Registration: First Name (Bitte geben Sie Ihren Vornamen ein);_content.ExpSection.SelRegSection.exp_registration;Registrierung;True;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;TextEntry;exp_reg_last_name;Bitte geben Sie Ihren Nachnamen ein;;;;True;;;;;Participant Registration: Last Name (Bitte geben Sie Ihren Nachnamen ein);_content.ExpSection.SelRegSection.exp_registration;Registrierung;True;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;RegEntry;exp_reg_date_of_birth;Bitte geben Sie Ihr Geburtsdatum ein;;;;True;;;;TT.MM.JJJJ;Participant Registration: Date of Birth (Bitte geben Sie Ihr Geburtsdatum ein);_content.ExpSection.SelRegSection.exp_registration;Registrierung;True;;;;;;;;;;;;;^(0[1-9]|[12][0-9]|3[01])[-/.](0[1-9]|1[012])[-/.](19|20)\d\d$
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;RegEntry;exp_reg_email;Bitte geben Sie Ihre E-Mail-Adresse ein;;;;True;;;;;Participant Registration: E-mail (Bitte geben Sie Ihre E-Mail-Adresse ein);_content.ExpSection.SelRegSection.exp_registration;Registrierung;True;;;;;;;;;;;;;[^@]+@[^@]+\.[^@]+
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;RegEntry;exp_reg_phone;Bitte geben Sie Ihre Telefonnummer ein;;;;True;;;;;Participant Registration: Phone Number (Bitte geben Sie Ihre Telefonnummer ein);_content.ExpSection.SelRegSection.exp_registration;Registrierung;True;;;;;;;;;;;;;^\+?(?:[0-9]\x20?){6,14}[0-9]$
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;RegEntry;exp_reg_iban;Bitte geben Sie Ihre IBAN ein;;;;True;;;;;Participant Registration: IBAN (Bitte geben Sie Ihre IBAN ein);_content.ExpSection.SelRegSection.exp_registration;Registrierung;True;;;;;;;;;;;;;^[A-Z]{2}[0-9]{2}(?:[ ]?[0-9]{4}){4}(?:[ ]?[0-9]{1,2})?$
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;RegEntry;exp_reg_bic;Bitte geben Sie Ihren BIC ein;;;;True;;;;;Participant Registration: BIC (Bitte geben Sie Ihren BIC ein);_content.ExpSection.SelRegSection.exp_registration;Registrierung;True;;;;;;;;;;;;;^[a-zA-Z]{6}[0-9a-zA-Z]{2}([0-9a-zA-Z]{3})?$
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;TextEntry;exp_reg_street;Bitte geben Sie den Straßennamen ein;;;;True;;;;;Participant Registration: Street (Bitte geben Sie den Straßennamen ein);_content.ExpSection.SelRegSection.exp_registration;Registrierung;True;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;TextEntry;exp_reg_house_number;Bitte geben Sie die Hausnummer ein;;;;True;;;;;Participant Registration: House Number (Bitte geben Sie die Hausnummer ein);_content.ExpSection.SelRegSection.exp_registration;Registrierung;True;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;RegEntry;exp_reg_postal_code;Bitte geben Sie die Postleitzahl ein;;;;True;;;;;Participant Registration: Postal Code (Bitte geben Sie die Postleitzahl ein);_content.ExpSection.SelRegSection.exp_registration;Registrierung;True;;;;;;;;;;;;;(?i)^[a-z0-9][a-z0-9\- ]{0,10}[a-z0-9]$
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;TextEntry;exp_reg_city;Bitte geben Sie den Stadtnamen ein;;;;True;;;;;Participant Registration: City (Bitte geben Sie den Stadtnamen ein);_content.ExpSection.SelRegSection.exp_registration;Registrierung;True;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;TextEntry;exp_reg_country;Bitte geben Sie den Ländernamen ein;;;;True;;;;;Participant Registration: Country (Bitte geben Sie den Ländernamen ein);_content.ExpSection.SelRegSection.exp_registration;Registrierung;True;;;;;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;RegEntry;exp_reg_various;Bitte geben Sie Ihre Matrikelnummer ein;;;;True;;;;;Participant Registration: Various (Bitte geben Sie Ihre Matrikelnummer ein);_content.ExpSection.SelRegSection.exp_registration;Registrierung;True;;;;;;;;;;;;;^..*$
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoice;interview_pre;; In dem zusätzlichen Interview wird es vorrangig um ... gehen.;;;True;;;;;;_content.ExpSection.InstructionSection.mani_check_pre;Noch ein paar kurze Fragen;False;3;mein Vorgehen;mein Ergebnis;beides gleichermaßen;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;SingleChoice;interview_post;; In dem kommenden Interview wird es vorrangig um ... gehen. ;;;True;;;;;;_content.ExpSection.FQSection.mani_check_post;Abschlussfragen 5;False;3;mein Vorgehen;mein Ergebnis;beides gleichermaßen;;;;;;;;;
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;RegEntry;date1;;;;;False;;Datum (dd.mm.);;2022;;_content.ExpSection.InstructionSection.interview_date;Interview-Termin;True;;;;;;;;;;;;;[0123]\d\.[01]\d\.?
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;RegEntry;time1;;;;;False;;Zeit (hh:mm);;Uhr;;_content.ExpSection.InstructionSection.interview_date;Interview-Termin;True;;;;;;;;;;;;;(([01]\d)|([89])):[0-6]\d
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;RegEntry;date2;;;;;False;;Datum (dd.mm.);;2022;;_content.ExpSection.InstructionSection.interview_date;Interview-Termin;True;;;;;;;;;;;;;[0123]\d\.[01]\d\.?
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;RegEntry;time2;;;;;False;;Zeit (hh:mm);;Uhr;;_content.ExpSection.InstructionSection.interview_date;Interview-Termin;True;;;;;;;;;;;;;(([01]\d)|([89])):[0-6]\d
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;RegEntry;interview_email;;;;;True;;max.mustermann@uni-goettingen.de;;;;_content.ExpSection.InstructionSection.interview_date;Interview-Termin;True;;;;;;;;;;;;;^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$
+Acc_MC_lab_test;jrollwage;1.0;2.3.2;TextEntry;exp_reg_tax_office;Bitte geben Sie den Sitz Ihres Finanzamtes an.;;;;True;;;;;Participant Registration: Tax Office (Bitte geben Sie den Sitz Ihres Finanzamtes an.);_content.ExpSection.SelRegSection.exp_registration;Registrierung;True;;;;;;;;;;;;;

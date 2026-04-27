@@ -1,0 +1,565 @@
+{
+    "name": "randomizer",
+    "exp_id": "test12345678",
+    "exp_version": "1.0test",
+    "inclusive": false,
+    "type": "randomizer_data",
+    "slots": [
+        {
+            "label": "outcome_accountability",
+            "session_groups": [
+                {
+                    "sessions": [
+                        "sid-ec62b18580bf4b8694da685fc9299889"
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": [
+                {
+                    "sessions": [
+                        "sid-eff51dcb74a944e0b32ef0a03dc414b8"
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "process_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        },
+        {
+            "label": "control",
+            "session_groups": []
+        },
+        {
+            "label": "outcome_accountability",
+            "session_groups": []
+        }
+    ],
+    "busy": false,
+    "additional_info": {
+        "random_seed": 1653470556.4343858
+    }
+}

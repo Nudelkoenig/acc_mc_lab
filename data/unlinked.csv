@@ -1,0 +1,24 @@
+type;exp_author;exp_title;exp_id;exp_version;alfred_version;date1;time1;date2;time2;interview_email;exp_reg_first_name;exp_reg_last_name;exp_reg_date_of_birth;exp_reg_email;exp_reg_phone;exp_reg_tax_office;exp_reg_iban;exp_reg_bic;exp_reg_street;exp_reg_house_number;exp_reg_postal_code;exp_reg_city;exp_reg_country;exp_reg_various
+unlinked;jrollwage;MC Accountability;test1234;0.11;2.3.2b1;;;;;;;;;;;;;;;;;;;
+unlinked;jrollwage;Acc_MC_lab_test;test12345678;1.0;2.3.2;30.05.;12:00;31.05.;13:00;johannes.rollwage@web.de;Johannes;Rollwage;;johannes.rollwage@web.de;;;;;;;;;;
+unlinked;jrollwage;MC Accountability;test1234;0.04;2.3.2b1;;;;;;Johannes;Rollwage;;johannes.rollwage@web.de;;;;;;;;;;
+unlinked;jrollwage;MC Accountability;test1234;0.11;2.3.2b1;;;;;;;;;;;;;;;;;;;
+unlinked;jrollwage;MC Accountability;test1234;1.1;2.3.2b1;18.01;15:00;19.01;15:00;johannes.rollwage@web.de;;;;;;;;;;;;;;
+unlinked;jrollwage;MC Accountability;test1234;0.05;2.3.2b1;12.01.;15:00;13.01.;15:00;johannes.rollwage@web.de;;;;;;;;;;;;;;
+unlinked;jrollwage;MC Accountability;test1234;0.05;2.3.2b1;;;;;;Johannes;Rollw;;johannes.rollwage@web.kr;;;;;;;;;;
+unlinked;jrollwage;Acc_MC_lab_test;test12345678;1.0;2.3.2;;;;;;Johannes;Rollwage;;johannes.rollwage@web.de;;;DE28259501300074762646;NOLADE21HIK;Rauschenwasser;11B;37120;Bovenden;Deutschland;
+unlinked;jrollwage;MC Accountability;test1234;0.02;2.0.1b8;;;;;;;;;;;;;;;;;;;
+unlinked;jrollwage;MC Accountability;test1234;0.05;2.3.2b1;;;;;;Johannes;Rollwag;;johannes.rollwage@web.gfd;;;;;;;;;;
+unlinked;jrollwage;Acc_MC_lab_test;test12345678;1.0;2.3.2;;;;;;Johannes;Rollwage;;johannes.rollwage@web.de;;;;;;;;;;
+unlinked;jrollwage;MC Accountability;test1234;0.05;2.3.2b1;;;;;;Johannes;Rolli;;johannes.rollwage@web.ch;;;;;;;;;;
+unlinked;jrollwage;MC Accountability;test1234;0.11;2.3.2b1;;;;;;Johannes;Rollwage;;johannes.rollwage@web.de;;;;;;;;;;34243242342
+unlinked;jrollwage;MC Accountability;test1234;0.05;2.3.2b1;;;;;;rerew;rewqewrr;;johannes.rollwage@web.fr;;;;;;;;;;
+unlinked;jrollwage;MC Accountability;test1234;0.05;2.3.2b1;;;;;;rewrqw;rewqrqwe;;johannes.rollwage@web.us;;;;;;;;;;
+unlinked;jrollwage;MC Accountability;test1234;0.05;2.3.2b1;;;;;;;;;;;;;;;;;;;
+unlinked;jrollwage;MC Accountability;test1234;0.04;2.3.2b1;;;;;;Johannes;Rollwagi;;johannes.rollwage@web.kr;;;;;;;;;;
+unlinked;jrollwage;MC Accountability;test1234;1.1;2.3.2b1;18.01;15:00;19.01;15:00;johannes.rollwage@web.de;;;;;;;;;;;;;;
+unlinked;jrollwage;MC Accountability;test1234;0.11;2.3.2b1;;;;;;;;;;;;;;;;;;;
+unlinked;jrollwage;MC Accountability;test1234;0.1;2.3.2b1;12.01.;15:00;13.01.;15:00;johannes.rollwage@web.de;;;;;;;;;;;;;;
+unlinked;jrollwage;Acc_MC_lab_test;test12345678;1.0;2.3.2;31.05.;12:00;31.05.;13:00;johannes.rollwage@web.de;Johannes;Rollwage;;johannes.rollwage@web.de;;Göttingen;DE28259501300074762646;NOLADE21HIK;Rauschenwasser;11B;37120;Bovenden;Deutschland;
+unlinked;jrollwage;MC Accountability;test1234;0.1;2.3.2b1;12.01.;15:00;13.01.;15:00;johannes.rollwage@web.de;;;;;;;;;;;;;;
+unlinked;jrollwage;Acc_MC_lab_test;test12345678;1.0;2.3.2;31.05;12:00;01.06.;12:00;johannes.rollwage@web.de;Johannes;Rollwage;;johannes.rollwage@web.de;;;;;;;;;;20960572
